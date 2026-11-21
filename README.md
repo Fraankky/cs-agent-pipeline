@@ -34,10 +34,11 @@ bun src/cs-agent.ts "halo CS?"                                  # jalur gate gen
 ## Demo
 
 Jalur refund — classify → extract → draft → evaluate → revise:
+Contoh Pesan Customer
 
-![Demo jalur refund](docs/demo-refund.png)
+![Demo jalur refund](docs/image_1.png)
 
-Jalur general — gate di kode, balasan canned tanpa AI:
+Run di CLI
 
-![Demo jalur general](docs/demo-general.png)
+![Demo jalur general](docs/image.png)
 # cs-agent-pipeline
